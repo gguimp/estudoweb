@@ -1,0 +1,21 @@
+p {
+    text-align:justify;
+    margin: 0 20%;
+}
+.neat-word {
+    text-align: center;
+    font-size:30px;
+    color: blue;
+    text-transform:uppercase;
+}
+
+h1 {
+	color: black;
+	border: dotted;
+	background: gray;
+}
+
+#subheader {
+	text-align: right;
+	color: black;
+}
